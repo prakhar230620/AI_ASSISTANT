@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a845b670-2a31-4548-b5d3-4a6ef8db9d5e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/AI_ASSISTANT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_assistant/central_ai/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_assistant/central_ai/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_assistant/central_ai/learning_engine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_assistant/central_ai/model_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_assistant/central_ai/task_router.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_assistant/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_assistant/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_assistant/specialized_ai/ai_registry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_assistant/specialized_ai/base_ai.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_assistant/specialized_ai/conversation_ai.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_assistant/specialized_ai/image_generation_ai.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_assistant/specialized_ai/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_assistant/specialized_ai/object_detaction_ai.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_assistant/specialized_ai/utils/data_preprocessor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_assistant/specialized_ai/utils/model_downloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_assistant/test file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_assistant/utils/data_preprocessor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_assistant/utils/file_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_assistant/utils/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_assistant/utils/model_trainer.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2jea8ctwYMRiifJ7SPklnAEplUu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Doctests in module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cmain.executor&quot;: &quot;Run&quot;,
+    &quot;Python.init.executor&quot;: &quot;Run&quot;,
+    &quot;Python.learning_engine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_router.executor&quot;: &quot;Run&quot;,
+    &quot;Python.user_interface.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/prakh/PycharmProjects/AI_ASSISTANT&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\prakh\PycharmProjects\AI_ASSISTANT" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\prakh\PycharmProjects\AI_ASSISTANT\ai_assistant" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a845b670-2a31-4548-b5d3-4a6ef8db9d5e" name="Changes" comment="" />
+      <created>1721749837467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721749837467</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/.venv/Lib/site-packages/torch/nn/modules/module.py</url>
+          <line>1538</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
